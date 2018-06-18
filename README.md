@@ -55,7 +55,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * matplotlib Plotting Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/matplotlib-plotting-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849513265) [[Amazon]](https://www.amazon.com/dp/1849513260)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Kevin Jolly**
 As a formally educated data scientist with a master’s degree in data science from the prestigious King’s College London, Kevin works as a data scientist with a digital healthcare startup - Connido Limited in London where he is primarily involved with building the descriptive, diagnostic and predictive analytic pipelines.
 He is also the founder of LinearData- a leading online resource in the field of data science which has over 30,000 unique website hits.
