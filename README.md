@@ -46,9 +46,14 @@ With the following software and hardware list you can run all code files present
 
 
 
-
-
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/Hands-onDataVisualizationwithBokeh_ColorImages.pdf).
+
+## Code in Action
+
+Click on the following link to see the Code in Action:
+
+[Placeholder link](http://bit.ly/2xZJdHt)
+
 
 ### Related products <Paste books from the Other books you may enjoy section>
 * Matplotlib for Python Developers - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/matplotlib-python-developers-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788625173) [[Amazon]](https://www.amazon.com/dp/178862517X)
