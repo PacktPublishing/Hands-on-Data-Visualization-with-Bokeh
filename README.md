@@ -52,7 +52,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 Click on the following link to see the Code in Action:
 
-[Placeholder link](http://bit.ly/2xZJdHt)
+[http://bit.ly/2xZJdHt](http://bit.ly/2xZJdHt)
 
 
 ### Related products <Paste books from the Other books you may enjoy section>
