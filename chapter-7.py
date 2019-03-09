@@ -168,7 +168,7 @@ plot.patches(longitude, latitude, line_color="red", line_width=2)
 
 long_list = [-69.44, -72.57, -71.57]
 
-lat_list = [45.25, 44.55, 43,19]
+lat_list = [45.25, 44.55, 43.19]
 
 # Create the markers for the states
 
