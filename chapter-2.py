@@ -73,7 +73,7 @@ from bokeh.plotting import figure
 
 #Creating the regions to map
 
-x_region = [[1,1,2,], [2,3,4], [2,3,5,4]]
+x_region = [[1,1,2], [2,3,4], [2,3,5,4]]
 
 y_region = [[2,5,6], [3,6,7], [2,4,7,8]]
 
